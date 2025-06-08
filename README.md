@@ -23,7 +23,7 @@ Windows:
   ```
 
 
-## Setup ()
+## Setup 
 
 - Creare una copia locale del repository tramite git
 
@@ -42,8 +42,6 @@ Windows:
 ```bash
   docker build -t e4slevosoftware .
   ```
-
-- Scaricare 
 
 - Eseguire l'applicativo in un container con i volumi creati in precedenza
 
