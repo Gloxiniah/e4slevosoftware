@@ -32,3 +32,6 @@ neurokit2
 lightning
 torch-tb-profiler
 scikit-optimize
+setuptools
+peakutils
+torchvision
