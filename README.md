@@ -6,7 +6,7 @@ Il progetto consiste nella conteinerizzazione del codice utilizzato per l'artico
 
 ## Setup Volumi Docker
 
-I dati utlizzati per il seguente progetto, sotto forma di volumi docker, sono disponibili [qui](https://unibari-my.sharepoint.com/:u:/g/personal/n_dalessandro9_studenti_uniba_it/EXizrflbzhxBlpMoFTb6usYBGryGbdnTTrdph0M1Tz_SOw?e=LB1AV4)
+I dati utlizzati per il seguente progetto, sotto forma di volumi docker, sono disponibili [qui](https://unibari-my.sharepoint.com/:u:/g/personal/n_dalessandro9_studenti_uniba_it/EZPeKX5a34pEm33BtktYxR8BHd43tJfSUsheqao2c0YcXg?e=YPckjx)
 
 - Eseguire il file di setup a seconda del sistema operativo utilizzato
 
