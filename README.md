@@ -46,7 +46,7 @@ Windows:
 - Eseguire l'applicativo in un container con i volumi creati in precedenza
 
 ```bash
-  docker run -d -v data_volume:/app/data -v runs_volume:/app/runs -v models_volume:/app/models --name e4slcontainer e4slevosoftware
+  docker run -d -v data_volume:/app/data -v runs_volume:/app/runs -v models_volume:/app/models --name e4slcontainer --shm-size=8g e4slevosoftware
   ```
 
 
