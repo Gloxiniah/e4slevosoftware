@@ -1,7 +1,7 @@
 # Apprendimento auto-supervisionato per il monitoraggio personale nei disturbi dell'umore
 
 Ambiente Dockerizzato per riprodurre i risultati dello studio:  
-**“Wearable Data From Subjects Playing Super Mario…”**  
+**“Wearable Data From Subjects Playing Super Mario, Taking University Exams, or Performing Physical Exercise Help Detect Acute Mood Disorder Episodes via Self-Supervised Learning: Prospective, Exploratory, Observational Study”**  
 Pubblicato su *JMIR mHealth and uHealth*, [leggi l’articolo](https://mhealth.jmir.org/2024/1/e55094)  
 Repository originale: [april-tools/e4selflearning](https://github.com/april-tools/e4selflearning)
 
