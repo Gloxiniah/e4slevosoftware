@@ -19,11 +19,6 @@ Questo progetto esegue modelli di apprendimento auto-supervisionato su dati da s
 
 ## Setup Volumi Docker
 
-<<<<<<< HEAD
-=======
-I dati utlizzati per il seguente progetto, sotto forma di volumi docker, sono disponibili [qui](https://unibari-my.sharepoint.com/:u:/g/personal/n_dalessandro9_studenti_uniba_it/EZPeKX5a34pEm33BtktYxR8BHd43tJfSUsheqao2c0YcXg?e=YPckjx)
-
->>>>>>> 85bfd37323d201bd25b086dded4f9eda7d73b185
 - Eseguire il file di setup a seconda del sistema operativo utilizzato
 
 Linux:
