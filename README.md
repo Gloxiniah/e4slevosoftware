@@ -19,6 +19,11 @@ Questo progetto esegue modelli di apprendimento auto-supervisionato su dati da s
 
 ## Setup Volumi Docker
 
+<<<<<<< HEAD
+=======
+I dati utlizzati per il seguente progetto, sotto forma di volumi docker, sono disponibili [qui](https://unibari-my.sharepoint.com/:u:/g/personal/n_dalessandro9_studenti_uniba_it/EZPeKX5a34pEm33BtktYxR8BHd43tJfSUsheqao2c0YcXg?e=YPckjx)
+
+>>>>>>> 85bfd37323d201bd25b086dded4f9eda7d73b185
 - Eseguire il file di setup a seconda del sistema operativo utilizzato
 
 Linux:
@@ -57,6 +62,7 @@ Windows:
 - Avviare il container montando i volumi creati in precedenza:
 
 ```bash
+<<<<<<< HEAD
   docker run -d \
   -v data_volume:/app/data \
   -v runs_volume:/app/runs \
@@ -64,6 +70,9 @@ Windows:
   --name e4slcontainer \
   --shm-size=8g \
   e4slevosoftware
+=======
+  docker run -d -v data_volume:/app/data -v runs_volume:/app/runs -v models_volume:/app/models --name e4slcontainer --shm-size=8g e4slevosoftware
+>>>>>>> 85bfd37323d201bd25b086dded4f9eda7d73b185
   ```
 
 
