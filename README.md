@@ -62,7 +62,6 @@ Windows:
 - Avviare il container montando i volumi creati in precedenza:
 
 ```bash
-<<<<<<< HEAD
   docker run -d \
   -v data_volume:/app/data \
   -v runs_volume:/app/runs \
@@ -70,9 +69,6 @@ Windows:
   --name e4slcontainer \
   --shm-size=8g \
   e4slevosoftware
-=======
-  docker run -d -v data_volume:/app/data -v runs_volume:/app/runs -v models_volume:/app/models --name e4slcontainer --shm-size=8g e4slevosoftware
->>>>>>> 85bfd37323d201bd25b086dded4f9eda7d73b185
   ```
 
 
